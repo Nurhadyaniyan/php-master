@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpexcel": "1.8.1",
+        "setasign/fpdf": "1.8.1",
+        "datatables/datatables": "1.10.16"
+    }
+}
